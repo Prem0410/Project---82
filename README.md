@@ -1,2 +1,3 @@
-# barter-app-stage-6
+# barter-app
+
 project 82
